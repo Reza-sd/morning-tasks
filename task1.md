@@ -4,16 +4,20 @@ Do some research to answer the following questions in your own words as best as 
 
 1. What is DevOps?
 
-<!-- Write your answer here -->
+<!-- DevOps is a set of practices that combines software development (Dev) and IT operations (Ops).  -->
 
 2. What are the 3 ways of DevOps and what do they mean in your own words?
 
-<!-- Write you answer here -->
+<!-- 1- Practices of flow :  works (ideas and bug fixes) travel throuhg this flow;  Business--> Development--> Operations--> customers
+
+2- Practices of feedback: The information from deploying, operating, and monitoring the production application flows back into how development plan their work.fast and continual feedback
+
+3- Practices of continual learning and experimentation: to ensure that teams capture the value of the first and second ways by creating a culture of continual learning and experimentation. The goal of the third way is to institutionalise a culture of continual learning and psychological safety at work. -->
 
 3. What do you think a DevOps Engineer does as part of a team?
 
-<!-- Write you answer here -->
+<!-- to consider the three Practices as the main principles and works with tools -->
 
 4. What do you think the most important qualities of a DevOps or Cloud engineer are?
 
-<!-- Write you answer here -->
+<!-- always remember to take it back to the three ways of DevOps -->
