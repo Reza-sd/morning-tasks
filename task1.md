@@ -8,11 +8,11 @@ Do some research to answer the following questions in your own words as best as 
 
 2. What are the 3 ways of DevOps and what do they mean in your own words?
 
-<!-- 1- Practices of flow :  works (ideas and bug fixes) travel throuhg this flow;  Business--> Development--> Operations--> customers
+<!-- - Practices of flow :  works (ideas and bug fixes) travel throuhg this flow;  Business--> Development--> Operations--> customers
 
-2- Practices of feedback: The information from deploying, operating, and monitoring the production application flows back into how development plan their work.fast and continual feedback
+- Practices of feedback: The information from deploying, operating, and monitoring the production application flows back into how development plan their work.fast and continual feedback
 
-3- Practices of continual learning and experimentation: to ensure that teams capture the value of the first and second ways by creating a culture of continual learning and experimentation. The goal of the third way is to institutionalise a culture of continual learning and psychological safety at work. -->
+- Practices of continual learning and experimentation: to ensure that teams capture the value of the first and second ways by creating a culture of continual learning and experimentation. The goal of the third way is to institutionalise a culture of continual learning and psychological safety at work. -->
 
 3. What do you think a DevOps Engineer does as part of a team?
 
